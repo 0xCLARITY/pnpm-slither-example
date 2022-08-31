@@ -1,0 +1,6 @@
+{
+  "exclude_informational": true,
+  "solc": "0.8.16",
+
+  "filter_paths": "lib|test"
+}
