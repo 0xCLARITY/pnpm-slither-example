@@ -5,4 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: crytic/slither-action@0xCLARITY:add-pnpm-support
+      - uses: 0xCLARITY/slither-action@add-pnpm-support
+      # - uses: crytic/slither-action@v0.1.1
